@@ -1,3 +1,9 @@
 numpy
 pandas
 torch
+icecream
+pillow
+py7zr
+torchvision
+matplotlib
+scikit-learn
