@@ -5,7 +5,6 @@ from langchain_openai import OpenAIEmbeddings
 embeddings_model = OpenAIEmbeddings()
 
 if __name__ == '__main__':
-    openai.api_key = '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'
 
     # Generate embeddings for a list of documents
     embeddings = embeddings_model.embed_documents(
