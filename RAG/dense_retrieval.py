@@ -13,7 +13,7 @@ def get_gpt4_embedding(text):
 
 if __name__ == '__main__':
     # add open ai  key here
-    openai.api_key = ''
+
     # List of example documents to be used in the index
     documents = [
         "This is the Fundamentals of RAG course.",
