@@ -3,8 +3,7 @@ import os
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 
-os.environ["OPENAI_API_KEY"] = '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'
-
+os.environ["OPENAI_API_KEY"] = ''
 from openai import OpenAI
 import openai
 from langchain_community.vectorstores import Chroma
