@@ -15,3 +15,8 @@ langchain
 langchain-openai
 langchain_community
 chromadb
+streamlit
+pypdf
+load_dotenv
+watchdog
+sentence_transformers
